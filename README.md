@@ -2,13 +2,12 @@
 
 Las pruebas unitarias son importantes en el desarrollo en Python porque:
 
-Detectan errores temprano.
-
-Garantizan la calidad del código.
-Facilitan el mantenimiento y la colaboración.
-Promueven la modularidad y la documentación.
-Permiten la automatización de pruebas.
-Facilitan la refactorización del código.
+1. Detectan errores temprano.  
+2. Garantizan la calidad del código.  
+3. Facilitan el mantenimiento y la colaboración.  
+4. Promueven la modularidad y la documentación.  
+5. Permiten la automatización de pruebas.  
+6. Facilitan la refactorización del código.  
 
 ¿Por qué es importante probar nuestro código? Porque debemos asegurar que todas las funcionalidades de nuestras aplicaciones sigan funcionando correctamente a pesar de realizar cambios, mejoras o actualizaciones del código fuente.
 
